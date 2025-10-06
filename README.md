@@ -4,7 +4,7 @@
         <meta charset = "UTF-8"/>
         <style type="text/css">
             #languages {
-                color: purple;
+                color: goldenrod;
             }
         </style>
     </head>
