@@ -23,7 +23,6 @@
             <li>Visual Basic</li>
         </ul>
         <h2>Contact Me</h2>
-        <!--<img src="HTML5_logo.png"><img src="java_logo.png"><img src="javascript_logo.png"><img src="c_plus_plus_logo.png"><img src="visual_basic_logo.png"><br>-->
         <a href="Rell_Beasley_Resume.pdf" target="_blank">Resume</a><br>
         <a href="https://github.com/relldoescode" target="_blank">GitHub</a><br>
         <a href="https://www.linkedin.com/in/rell-beasley/" target="_blank">LinkedIn</a><br>
